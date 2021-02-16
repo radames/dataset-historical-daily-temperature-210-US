@@ -1,6 +1,13 @@
-This README.txt file was generated on <20210104> by <Yuchuan Lai>
+# Compiled historical daily temperature and precipitation data for selected 210 U.S. cities
 
+Dataset originally downloaded from https://kilthub.cmu.edu/articles/dataset/Compiled_daily_temperature_and_precipitation_data_for_the_U_S_cities/7890488.
 
+Storing on github enables us to fetch from a CORS enabled hosting!
+~~~
+https://media.githubusercontent.com/media/radames/dataset-historical-daily-temperature-210-US/main/${LOCATIONID}.csv
+~~~
+
+## Original Readme.txt
 -------------------
 GENERAL INFORMATION
 -------------------
@@ -35,7 +42,7 @@ Compiled historical daily temperature and precipitation data for selected 210 U.
            Email: dzombak@cmu.edu
 
 
-
+z
 ---------------------
 DATA & FILE OVERVIEW
 ---------------------
